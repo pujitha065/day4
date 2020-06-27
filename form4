@@ -1,0 +1,14 @@
+<html>
+<body>
+
+<h2>My list of courses</h2>
+
+<ul>
+  <li>JOY OF COMPUTING PYTHON</li>
+<a href="file:///C:/Users/Dell/Desktop/ande/day4(1).html"> <button type="button">REGISTER!</button></a>
+  <li>JAVA</li>
+<a href="file:///C:/Users/Dell/Desktop/ande/day4(1).html"> <button type="button">REGISTER!</button></a>
+</ul>  
+
+</body>
+</html>
